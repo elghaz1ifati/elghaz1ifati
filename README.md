@@ -23,9 +23,9 @@
 </p>
 
 #  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=btaraki02&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=elghaz1ifati&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ghaz1ifati2&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghaz1ifati&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -35,4 +35,4 @@
 ##  Fun Fact
 ## I'm on a journey to master C and shell scripting! Let's build something amazing together.
 
-[![](https://visitcount.itsvg.in/api?id=btaraki02&icon=9&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ghaz1ifati&icon=9&color=1)](https://visitcount.itsvg.in)
