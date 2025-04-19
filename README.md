@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=elghaz1ifati&color=344CB7)
+![Visitor Count](https://komarev.com/ghpvc/?username=elghaz1ifati&color=#FF1493)
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19c4ef&height=120&section=header" />
