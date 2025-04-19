@@ -1,7 +1,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=elghaz1ifati&color=344CB7)
 
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF1493&height=120&section=header" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee00f5&height=120&section=header" />
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=HELLO;+I'm+𝓕𝓪𝓽𝓲𝓶𝓪+𝓮𝔃𝔃𝓪𝓱𝓻𝓪)
