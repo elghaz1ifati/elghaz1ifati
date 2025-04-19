@@ -4,7 +4,7 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee00f5&height=120&section=header" />
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO;+I'm+𝓕𝓪𝓽𝓲𝓶𝓪+𝓮𝔃𝔃𝓪𝓱𝓻𝓪)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b600ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO;+I'm+𝓕𝓪𝓽𝓲𝓶𝓪+𝓮𝔃𝔃𝓪𝓱𝓻𝓪)
 
 ## Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies.
 
