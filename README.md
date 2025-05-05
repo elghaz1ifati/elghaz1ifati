@@ -33,7 +33,8 @@
   <a href="https://www.uml.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/60/000000/class.png" width="60" height="60" alt="UML" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="60" height="60" alt="GNU Bash" /></a>
   <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="60" height="60" alt="Linux" /></a>
-    <a href="https://www.c.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="Linux" /></a>
+    <a href="https://www.c.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="c" /></a>
+     <a href="https://www.github.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="60" height="60" alt="githubLinux" /></a>
 </p>
 
 ---
